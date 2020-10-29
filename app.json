@@ -1,0 +1,12 @@
+{
+  "name": "logia_secretario",
+  "displayName": "logia_secretario",
+  "expo": {
+    "name": "logia_secretario",
+    "slug": "logia_secretario",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
